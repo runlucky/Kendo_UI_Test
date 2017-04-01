@@ -30,4 +30,4 @@ var Kendo = (function () {
     };
     return Kendo;
 }());
-//# sourceMappingURL=kendo.js.map
+//# sourceMappingURL=Kendo.js.map

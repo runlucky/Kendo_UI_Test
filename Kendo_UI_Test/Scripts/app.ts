@@ -22,8 +22,8 @@
 }
 
 window.onload = () => {
-    var el = document.getElementById('content');
-    var greeter = new Greeter(el);
+    let el = document.getElementById('content');
+    let greeter = new Greeter(el);
     greeter.start();
     let menu = Kendo.CreateMenu($('#menu'));
 };
